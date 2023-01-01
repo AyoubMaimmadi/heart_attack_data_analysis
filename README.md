@@ -1,2 +1,2 @@
-# heart_attack_data_analysis
+# heart_attack_prediction
 Predicting the likelihood of a heart attack is an important task in healthcare, as early detection and intervention can greatly improve the outcome for patients. There are many factors that can increase the risk of a heart attack, including age, genetics, lifestyle, and medical history. Data analysis techniques can be used to identify patterns in data that may be indicative of an increased risk of heart attack, and to develop models that can predict the likelihood of a heart attack in an individual. 
